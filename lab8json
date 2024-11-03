@@ -1,0 +1,22 @@
+[
+  {
+    "name": "LeBron James",
+    "sports": "Basketball",
+    "team": {"name": "Lakers", "city": "Los Angeles"}
+  },
+  {
+    "name": "Lionel Messi",
+    "sports": "soccer",
+    "team": {"name": "Inter Miami", "city": "Miami"}
+  },
+  {
+    "name": "Serena Williams", //string
+    "sports": "tennis",  //string
+    "team": {"name": null, "city": null} //object
+  },
+  {
+    "name": "Tom Brady",
+    "sports": "soccer",
+    "team": {"name": "Buccaneers", "city": "Tampa Bay"}
+  }
+]
